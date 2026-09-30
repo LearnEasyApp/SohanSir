@@ -1,4 +1,5 @@
-name: Build Android APP
+name: Build Android APK
+
 on:
   push:
     branches: [ "main" ]
@@ -26,4 +27,3 @@ jobs:
       with:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
-
