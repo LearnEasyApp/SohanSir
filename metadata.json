@@ -1,0 +1,6 @@
+{
+  "name": "Learn Easy",
+  "description": "সহজে শিখি, আত্মবিশ্বাসে এগিয়ে যাই - Class 9–10 ও SSC শিক্ষার্থীদের জন্য পূর্ণাঙ্গ শিক্ষামূলক প্ল্যাটফর্ম",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
